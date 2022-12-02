@@ -1,3 +1,5 @@
+![image](https://media.giphy.com/media/u3fEnaMRVNXZj8vRPG/giphy.gif)
+
 [![Yongnoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongnoo&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -14,8 +16,6 @@
 
 ![image](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 
-
-Hi!
 
 
 
