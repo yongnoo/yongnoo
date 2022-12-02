@@ -1,7 +1,8 @@
 
-<p align = "center"><img src="https://media.giphy.com/media/u3fEnaMRVNXZj8vRPG/giphy.gif"  width="50%"/> </p>
+<p align = "center"><img src="https://media.giphy.com/media/u3fEnaMRVNXZj8vRPG/giphy.gif"  width="50%"/> 
 
 <br>
+
 
 [![Yongnoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongnoo&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,6 +23,6 @@
 
 
 
-
+</p>
 
 
