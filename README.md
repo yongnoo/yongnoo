@@ -1,6 +1,5 @@
-<center>
 
-<img src="https://media.giphy.com/media/u3fEnaMRVNXZj8vRPG/giphy.gif"  width=50%/>
+<p align = "center"><img src="https://media.giphy.com/media/u3fEnaMRVNXZj8vRPG/giphy.gif"  width="50%"/> </p>
 
 <br>
 
@@ -20,7 +19,7 @@
 
 
 ![image](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-</center>
+
 
 
 
